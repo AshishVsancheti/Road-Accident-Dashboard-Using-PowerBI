@@ -1,5 +1,5 @@
 # Road-Accident-Dashboard-Using-PowerBI
-# OVERVIEW
+# PROJECT OVERVIEW
 This project focused on analyzing road accidents data for the years 2021 and 2022. The main objective was to create an interactive Power BI dashboard that provides insights into road accident trends, casualties, accident severity, vehicle types, and other relevant factors. This dashboard aims to help stakeholders gain a comprehensive understanding of road safety performance and identify areas that require attention and improvement.
 # PROBLEM STATEMENT
 Road accidents are a significant public safety concern, and understanding the patterns and contributing factors behind accidents is crucial for devising effective measures to reduce casualties and improve road safety. The problem addressed in this project was to analyze and visualize the road accident data to answer the following key questions:
